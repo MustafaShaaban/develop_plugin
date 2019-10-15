@@ -18,7 +18,7 @@
  *
  * @package    Develop
  * @subpackage Develop/public
- * @author     Mustafa Shaaban <mustafa.shaaban@appenza-studio.com>
+ * @author     Mustafa Shaaban <Mustafashaaban22@gmail.com>
  */
 class Develop_Public {
 

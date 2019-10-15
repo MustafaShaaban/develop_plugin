@@ -18,7 +18,7 @@
  * @since      1.0.0
  * @package    Develop
  * @subpackage Develop/includes
- * @author     Mustafa Shaaban <mustafa.shaaban@appenza-studio.com>
+ * @author     Mustafa Shaaban <Mustafashaaban22@gmail.com>
  */
 class Develop_Activator {
 
